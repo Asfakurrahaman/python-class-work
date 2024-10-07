@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79dc64d0-b00b-4f06-8355-35b07c734db9" name="Changes" comment="https://github.com/Asfakurrahaman/python-class-work.git">
-      <change afterPath="$PROJECT_DIR$/work3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work2.py" beforeDir="false" afterPath="$PROJECT_DIR$/work2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remainder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work1.py" beforeDir="false" afterPath="$PROJECT_DIR$/add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work2.py" beforeDir="false" afterPath="$PROJECT_DIR$/subtrac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work3.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiply.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work4.py" beforeDir="false" afterPath="$PROJECT_DIR$/divide.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +56,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.work.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.work.executor": "Run",
+    "Python.work2.executor": "Run",
+    "Python.work3.executor": "Run",
+    "Python.work4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728320181329</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="https://github.com/Asfakurrahaman/python-class-work.git">
+      <option name="closed" value="true" />
+      <created>1728320561840</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728320561840</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
