@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79dc64d0-b00b-4f06-8355-35b07c734db9" name="Changes" comment="https://github.com/Asfakurrahaman/python-class-work.git">
+    <list default="true" id="79dc64d0-b00b-4f06-8355-35b07c734db9" name="Changes" comment="commit-m">
+      <change afterPath="$PROJECT_DIR$/AverageNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/largeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/square root.py" beforeDir="false" afterPath="$PROJECT_DIR$/square root.py" afterDir="false" />
@@ -57,20 +60,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.power.executor&quot;: &quot;Run&quot;,
-    &quot;Python.remainder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.square root.executor&quot;: &quot;Run&quot;,
-    &quot;Python.work.executor&quot;: &quot;Run&quot;,
-    &quot;Python.work2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.work3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.work4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AverageNumber.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.largeNumber.executor": "Run",
+    "Python.power.executor": "Run",
+    "Python.remainder.executor": "Run",
+    "Python.square root.executor": "Run",
+    "Python.subtrac.executor": "Run",
+    "Python.sum.executor": "Run",
+    "Python.work.executor": "Run",
+    "Python.work2.executor": "Run",
+    "Python.work3.executor": "Run",
+    "Python.work4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -143,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728368364972</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit-m">
+      <option name="closed" value="true" />
+      <created>1728382494076</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728382494076</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +174,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="https://github.com/Asfakurrahaman/python-class-work.git" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/Asfakurrahaman/python-class-work.git" />
+    <MESSAGE value="commit-m" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit-m" />
   </component>
 </project>

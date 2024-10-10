@@ -1,3 +1,6 @@
 def square_root(number):
     return number**(0.5)
-print(square_root(25))
+
+Result = square_root(16)
+
+print(Result)
