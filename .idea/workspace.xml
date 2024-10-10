@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79dc64d0-b00b-4f06-8355-35b07c734db9" name="Changes" comment="commit-m">
-      <change afterPath="$PROJECT_DIR$/AverageNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largeNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/square root.py" beforeDir="false" afterPath="$PROJECT_DIR$/square root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AverageNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/AverageNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +61,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.AverageNumber.executor": "Run",
+    "Python.SmallestNumber.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.largeNumber.executor": "Run",
     "Python.power.executor": "Run",
@@ -158,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728382494076</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit-m">
+      <option name="closed" value="true" />
+      <created>1728538795068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728538795068</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

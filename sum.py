@@ -1,11 +1,9 @@
 
 
-def sum(num):
-    total = 0
+def sumNumber(number):
+    return sum(number)
 
-    for x in num:
-        total += x
-    return total
+list = [1,2,3,4,5]
+Result = sumNumber(list)
 
-print(sum(10,12,15))
-12 15 18
+print(Result)
