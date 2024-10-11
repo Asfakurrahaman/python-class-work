@@ -4,8 +4,6 @@ def productNumber(number):
         product *= num
     return product
 
-
-
 list = [1,2,3,4,5,6]
 Result = productNumber(list)
 

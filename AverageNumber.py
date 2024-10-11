@@ -2,7 +2,7 @@
 def AverageNumber(number):
     return sum(number)
 
-list = [1,2,3,4,5,6,7]
+list = [1,2,3,4,5]
 lent = len(list)
 Result = AverageNumber(list)/lent
 
