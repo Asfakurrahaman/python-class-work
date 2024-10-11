@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79dc64d0-b00b-4f06-8355-35b07c734db9" name="Changes" comment="commit-m">
+      <change afterPath="$PROJECT_DIR$/differenceNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulusNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AverageNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/AverageNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProductNumber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,15 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AverageNumber.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ProductNumber.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/differenceNumber.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/divide.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/factorial.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/modulusNumber.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/remainder.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/square root.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sum.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -62,8 +70,10 @@
     "Python.AverageNumber.executor": "Run",
     "Python.ProductNumber.executor": "Run",
     "Python.SmallestNumber.executor": "Run",
+    "Python.differenceNumber.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.largeNumber.executor": "Run",
+    "Python.modulusNumber.executor": "Run",
     "Python.power.executor": "Run",
     "Python.remainder.executor": "Run",
     "Python.square root.executor": "Run",
@@ -173,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728578592426</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit-m">
+      <option name="closed" value="true" />
+      <created>1728619741058</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728619741058</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
